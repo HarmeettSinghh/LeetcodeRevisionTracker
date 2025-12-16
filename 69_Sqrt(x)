@@ -9,3 +9,17 @@ Example 2:
 Input: x = 8
 Output: 2
 Explanation: The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.
+Solution---
+
+class Solution {
+    public int mySqrt(int x) {
+     if(x==1 || x==0){
+        return x;
+     }
+     int n =1;
+     while((long)n*n<=x){
+        n++;
+     }
+     return n-1;
+    }
+}
