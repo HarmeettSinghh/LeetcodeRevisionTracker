@@ -14,3 +14,26 @@ Output: 1
 Example 3:
 Input: arr = [0,10,5,2]
 Output: 1
+Solution--
+class Solution {
+    public int peakIndexInMountainArray(int[] arr) {
+      int start =0;
+      int end = arr.length-1;
+      while(start<end){
+        int mid = start + (end-start)/2;
+        if(arr[mid]>arr[mid+1]){
+            //we are in the desc part of array
+            //this maybe the ans but look at left
+            //this is why end != mid-1;
+            end= mid;
+
+        }else{
+            //you are in the asc part of array
+            start = mid+1; //because we know that mid+1 element> mid element
+        }
+      } 
+      //start and end are alwasy trying to find the largest element in the above two checks
+      return start; 
+      //can also submit return end; as start == end in last
+    }
+}
