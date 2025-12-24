@@ -33,6 +33,7 @@ class Solution {
         }
       } 
       //start and end are alwasy trying to find the largest element in the above two checks
+      //start==end and the lopps break,and we found the max element
       return start; 
       //can also submit return end; as start == end in last
     }
