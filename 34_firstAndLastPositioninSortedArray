@@ -36,10 +36,10 @@ class Solution {
                 //potential answer
                 ans = mid;
                 if(findfirstindex){
-                    end=mid-1;
+                    end=mid-1; //found the target but maybe there is another taarget on the left side , them go and find the first position of it
                     
                 }else{
-                    start= mid+1;
+                    start= mid+1;  //similarly check on right side for second positon
                 }
             }
         }
