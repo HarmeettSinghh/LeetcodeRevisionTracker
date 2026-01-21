@@ -12,3 +12,24 @@ Example 1:
 Input: nums = [3,4,5,1,2]
 Output: 1
 Explanation: The original array was [1,2,3,4,5] rotated 3 times.
+
+Solution-
+class Solution {
+    public int findMin(int[] nums) {
+     int n = nums.length;
+        int low =0;
+        int high = n-1;
+        int min=Integer.MAX_VALUE;
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            if(nums[low]<=nums[mid]){
+                min = Math.min(nums[low],min); //getting the minimum value from the sorted part
+                low = mid+1; //eliminaring the sorted part
+            }else if(nums[mid]<=nums[high]){
+                min = Math.min(nums[mid],min) ;
+                high= mid-1;
+            }
+        }
+        return min;
+    }
+}
