@@ -8,3 +8,5 @@ Example 2:
 
 Input: nums = [1]
 Output: [1]
+
+//Applying Moore Algo here, better approach will be hashmap and optimal moore voting algo
