@@ -20,3 +20,27 @@ Explanation:
 The first distinct maximum is 3.
 The second distinct maximum is 2 (both 2's are counted together since they have the same value).
 The third distinct maximum is 1
+
+
+class Solution {
+    public int thirdMax(int[] nums) {
+       Long first = Long.MIN_VALUE;
+        Long second = Long.MIN_VALUE;
+        Long third = Long.MIN_VALUE;
+        for(int num: nums){
+            if(num==first || num == second || num==third){
+                continue;
+            }else if(num>first){
+                third = second;
+                second = first;
+                first =(long) num;
+            }else if(num>second){
+                third = second;
+                second = (long) num;
+            }else if(num>third){
+                third = (long)num;
+            }
+        }
+        return third==Long.MIN_VALUE?first.intValue():third.intValue(); //converts long to int value as return type of the function is intrger
+    }
+}
