@@ -1,0 +1,29 @@
+class Solution {
+    public long[] distance(int[] nums) {
+        int n = nums.length;
+        long arr [] = new long[n];
+        HashMap<Integer, Long> countv = new HashMap<>();
+        HashMap<Integer, Long> sumv= new HashMap<>();
+
+        //left side
+        for(int i =0; i<n ; i++){
+            int val = nums[i];
+            long count = countv.getOrDefault(val,0L);
+            long sum = sumv.getOrDefault(val,0L);
+            arr[i]+=count*i - sum;
+            countv.put(val, count+1);
+            sumv.put(val,sum+i); //need sum of indices
+        }
+        countv.clear();
+        sumv.clear();
+        for(int i =n-1; i>=0; i--){
+            int val = nums[i];
+             long count = countv.getOrDefault(val,0L);
+             long sum = sumv.getOrDefault(val,0L);
+             arr[i]+=sum - count*i;
+              countv.put(val, count+1);
+              sumv.put(val,sum+i);
+        }
+        return arr;
+    }
+}
