@@ -10,6 +10,7 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -24,4 +25,9 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
+## Array
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
