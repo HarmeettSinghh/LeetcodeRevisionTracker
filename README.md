@@ -26,10 +26,16 @@ for regular revision and interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1652-defuse-the-bomb) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
