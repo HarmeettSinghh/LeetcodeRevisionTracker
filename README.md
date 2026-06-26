@@ -10,12 +10,14 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0049-group-anagrams) |
 | [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -31,6 +33,7 @@ for regular revision and interview preparation.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0049-group-anagrams) |
 | [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1652-defuse-the-bomb) |
@@ -38,4 +41,8 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
