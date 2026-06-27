@@ -45,4 +45,12 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
