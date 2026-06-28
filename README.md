@@ -33,6 +33,7 @@ for regular revision and interview preparation.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0049-group-anagrams) |
 | [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -52,5 +53,10 @@ for regular revision and interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0011-container-with-most-water) |
 | [0876-middle-of-the-linked-list](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
