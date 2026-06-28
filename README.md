@@ -38,6 +38,7 @@ for regular revision and interview preparation.
 | [0904-fruit-into-baskets](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1652-defuse-the-bomb) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +60,12 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
