@@ -67,6 +67,7 @@ for regular revision and interview preparation.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarmeettSinghh/LeetcodeRevisionTracker/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
