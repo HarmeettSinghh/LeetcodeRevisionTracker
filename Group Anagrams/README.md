@@ -4,7 +4,7 @@
 **Language:** plaintext
 **Runtime:** N/A
 **Memory:** N/A
-**Submission Date:** Jul 10, 2026, 9:43 PM
+**Submission Date:** Jul 10, 2026, 9:44 PM
 **Problem URL:** [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)
 
 ---
@@ -64,6 +64,18 @@ _Not available._
 ## My Solution
 
 ```plaintext
- 
+
+            Arrays.sort(arr);
+            String key = String.valueOf(arr);
+            if(!map.containsKey(key)){
+                map.put(key , new ArrayList<>());
+            }
+            map.get(key).add(s);
+        }
+            char[] arr = s.toCharArray();
+        for(String s:strs){
+        HashMap<String, List<String>> map = new HashMap<>();
+    public List<List<String>> groupAnagrams(String[] strs) {
+class Solution {
 
 ```
