@@ -1,0 +1,11 @@
+{
+  "problemName": "Remove Duplicates from Sorted Array II",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 0,
+  "memory": 48880000,
+  "submissionTime": "2026-07-11T16:44:09.000Z",
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
