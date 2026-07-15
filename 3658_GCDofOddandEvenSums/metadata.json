@@ -1,0 +1,11 @@
+{
+  "problemName": "GCD of Odd and Even Sums",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": 3,
+  "memory": 42568000,
+  "submissionTime": "2026-07-15T09:12:06.000Z",
+  "problemUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
