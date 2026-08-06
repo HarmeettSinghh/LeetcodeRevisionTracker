@@ -1,0 +1,11 @@
+{
+  "problemName": "Find First and Last Position of Element in Sorted Array",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 0,
+  "memory": 48328000,
+  "submissionTime": "2026-08-06T08:50:09.000Z",
+  "problemUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
