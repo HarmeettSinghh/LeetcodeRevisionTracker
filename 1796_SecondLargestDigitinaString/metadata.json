@@ -1,0 +1,11 @@
+{
+  "problemName": "Second Largest Digit in a String",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": 3,
+  "memory": 43440000,
+  "submissionTime": "2026-08-07T16:03:44.000Z",
+  "problemUrl": "https://leetcode.com/problems/second-largest-digit-in-a-string/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
