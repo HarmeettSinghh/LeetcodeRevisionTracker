@@ -1,0 +1,11 @@
+{
+  "problemName": "Letter Combinations of a Phone Number",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 3,
+  "memory": 48968000,
+  "submissionTime": "2026-09-05T09:41:23.000Z",
+  "problemUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
