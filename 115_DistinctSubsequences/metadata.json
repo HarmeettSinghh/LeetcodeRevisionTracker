@@ -1,0 +1,11 @@
+{
+  "problemName": "Distinct Subsequences",
+  "difficulty": "Hard",
+  "language": "java",
+  "runtime": 22,
+  "memory": 66444000,
+  "submissionTime": "2026-09-06T09:18:52.000Z",
+  "problemUrl": "https://leetcode.com/problems/distinct-subsequences/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
