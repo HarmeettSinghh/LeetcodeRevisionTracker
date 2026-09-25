@@ -1,0 +1,11 @@
+{
+  "problemName": "Minimum Right Shifts to Sort the Array",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": 1,
+  "memory": 44676000,
+  "submissionTime": "2026-09-25T14:12:09.000Z",
+  "problemUrl": "https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
