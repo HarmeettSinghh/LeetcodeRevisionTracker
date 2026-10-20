@@ -1,0 +1,11 @@
+{
+  "problemName": "Longest Substring Without Repeating Characters",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 40,
+  "memory": 47164000,
+  "submissionTime": "2026-10-20T12:48:03.000Z",
+  "problemUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
