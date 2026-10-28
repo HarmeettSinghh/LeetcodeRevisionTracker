@@ -1,0 +1,11 @@
+{
+  "problemName": "Create Grid With Exactly One Path",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": 4,
+  "memory": 46044000,
+  "submissionTime": "2026-10-28T07:58:17.000Z",
+  "problemUrl": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
