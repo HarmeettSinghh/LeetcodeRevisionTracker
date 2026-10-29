@@ -1,0 +1,11 @@
+{
+  "problemName": "Top K Frequent Elements",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 60,
+  "memory": 47876000,
+  "submissionTime": "2026-10-29T12:11:07.000Z",
+  "problemUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
