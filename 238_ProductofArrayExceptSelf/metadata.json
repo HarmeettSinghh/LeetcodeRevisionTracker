@@ -1,0 +1,11 @@
+{
+  "problemName": "Product of Array Except Self",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 3,
+  "memory": 64328000,
+  "submissionTime": "2026-10-31T10:36:30.000Z",
+  "problemUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+  "repository": "HarmeettSinghh/LeetcodeRevisionTracker",
+  "commitSha": ""
+}
